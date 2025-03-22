@@ -56,10 +56,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Samples\XR Interaction Toolkit\3.1.1\XR Device Simulator\XRDeviceSimulator\Scripts\XRDeviceSimulatorUI.cs" />
-    <Compile Include="Assets\Samples\XR Interaction Toolkit\3.1.1\XR Device Simulator\XRDeviceSimulator\Scripts\XRDeviceSimulatorHandsUI.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\3.1.1\XR Device Simulator\XRDeviceSimulator\Scripts\XRDeviceSimulatorControllerUI.cs" />
-    <Compile Include="Assets\Samples\XR Interaction Toolkit\3.1.1\XR Device Simulator\XRInteractionSimulator\Scripts\XRInteractionSimulatorInputFeedbackUI.cs" />
     <Compile Include="Assets\Samples\XR Interaction Toolkit\3.1.1\XR Device Simulator\XRInteractionSimulator\Scripts\XRInteractionSimulatorPlayModeMenu.cs" />
+    <Compile Include="Assets\Samples\XR Interaction Toolkit\3.1.1\XR Device Simulator\XRInteractionSimulator\Scripts\XRInteractionSimulatorInputFeedbackUI.cs" />
+    <Compile Include="Assets\Samples\XR Interaction Toolkit\3.1.1\XR Device Simulator\XRDeviceSimulator\Scripts\XRDeviceSimulatorHandsUI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Samples\XR Interaction Toolkit\3.1.1\XR Device Simulator\Unity.XR.Interaction.Toolkit.Samples.DeviceSimulator.asmdef" />
